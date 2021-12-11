@@ -1,0 +1,31 @@
+.question {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.questionTag {
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: capitalize;
+  padding: 10px;
+}
+.back {
+  background-color: #ee7023;
+}
+.radio {
+  padding: 8px;
+}
+.page-success {
+  background-color: #fff;
+  text-align: center;
+}
+.answer {
+  text-align: center;
+}
+.input {
+  padding-bottom: 11px;
+}
+.input input {
+  width: 100%;
+  padding: 10px;
+}

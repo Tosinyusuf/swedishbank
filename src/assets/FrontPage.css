@@ -1,0 +1,23 @@
+button {
+  background-color: #31a3ae;
+  color: #fff;
+  border: none;
+  padding: 20px 60px 20px 60px;
+  cursor: pointer;
+  outline: none;
+}
+.page-body {
+  margin: 0 auto;
+  width: 90%;
+}
+.page-wrapper {
+  background-color: #fbf2ea;
+  padding-bottom: 100px;
+  padding-top: 30px;
+}
+.page-body P {
+  padding-top: 20px;
+  font-size: 17px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
