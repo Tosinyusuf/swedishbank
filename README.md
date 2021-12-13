@@ -3,9 +3,9 @@ Next fork the repository, from the fork option on the top right corner of the re
 Once thats done, you will have your own copy of the actual repository.
 Copy the link from browser bar. It should be something like this: https://github.com/you-github-username/swedishbank/
 Open Terminal (Linux and MacOS) or git bash terminal (Windows) and enter the following command :
-$ git clone https://github.com/<Your account name>/DesktopApp
+$ git clone https://github.com/<Your account name>/swedishbank
 
-$ cd DesktopApp
+$ cd swedishbank
 To install the packages:
 Install dependencies
 npm install
